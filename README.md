@@ -1,3 +1,3 @@
 # Hacker News
 
-Check out all the hacker news latest in the community!
+Check out all the latest hacker news in the community!
